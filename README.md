@@ -1,22 +1,16 @@
-# Hi, I'm Tahmid 
+# Hi, I'm Tahmid Al Muntasir 
 
-AI & Robotics Researcher | Building Intelligent Systems
+I am a researcher and engineer bridging the gap between physical materials and artificial intelligence. My current work focuses on applying computer vision to industrial manufacturing and utilizing reinforcement learning for advanced thermal control systems. 
 
-##  About Me
+### Current Research & Projects
+* **Real-Time Computer Vision for Manufacturing:** Fine-tuning YOLO architectures for high-speed fabric defect detection on industrial production lines.
+* **AI-Driven Smart Thermal Garments:** Developing prototypes that integrate Bio-based Phase Change Materials (PCM) with reinforcement learning and energy harvesting for automated thermal comfort regulation.
+* **Data Infrastructure:** Building automated data pipelines to streamline research workflows.
 
-I'm passionate about creating AI systems that bridge the digital and physical worlds. My work spans **machine learning, computer vision, and robotics**, with a focus on building end-to-end intelligent systems.
-
-##  Technical Skills
-
-**AI/ML:** Python, PyTorch, TensorFlow, OpenCV, Reinforcement Learning, Computer Vision  
-**Robotics:** ROS2, PyBullet, Kinematics, Control Theory, Simulation  
-**Systems:** C++, Git, Docker, Embedded Systems, Web APIs  
-**Tools:** Linux, Blender, LaTeX, MATLAB
+### Technical Arsenal
+* **AI/Machine Learning:** PyTorch, TensorFlow, OpenCV, Reinforcement Learning, Computer Vision (YOLO)
+* **Languages & Tools:** Python, C++, ROS2, Git, Docker, LaTeX
+* **Domain Expertise:** Textile Engineering, Control Theory, Kinematics
 
 
-## 📫 Let's Connect
-
-- **Email:** tahmidalmuntasir@gmail.com
-- **LinkedIn:** www.linkedin.com/in/tahmid-al-muntasir
-- **Website:** https://mystiroda.github.io
-
+📫 **Reach me at:** [Your Email] | [Your LinkedIn Profile URL]
