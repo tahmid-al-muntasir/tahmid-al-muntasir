@@ -3,8 +3,7 @@
 **Bridging Material Science, Artificial Intelligence, and Robotics for Industry 4.0**
 
 I am a graduating Textile Engineer currently exploring the intersection of deep learning, computer vision, and smart materials. My core focus is on automating and optimizing industrial pipelines, moving traditional manufacturing into the era of AI-driven Industry 4.0. 
-
-I am currently interning at SQUARE Apparels and preparing for advanced postgraduate studies in Data Science. 
+ 
 
 ---
 
