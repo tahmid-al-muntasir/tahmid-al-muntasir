@@ -8,7 +8,7 @@ I am currently interning at SQUARE Apparels and preparing for advanced postgradu
 
 ---
 
-### 🔬 What I'm Currently Working On
+### What I'm Currently Working On
 
 *   **Real-Time Fabric Defect Detection:** Developing an industrial computer vision pipeline using **YOLO, PyTorch, and OpenCV** to identify anomalies in manufacturing environments.
 *   **AI-Driven Smart Thermal Garments:** Building prototypes that utilize bio-based Phase Change Materials (PCM). I am exploring the use of **Reinforcement Learning (RL)** to dynamically model and optimize heating and cooling parameters.
@@ -17,7 +17,7 @@ I am currently interning at SQUARE Apparels and preparing for advanced postgradu
 
 ---
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 **AI & Machine Learning:**
 `PyTorch` | `TensorFlow` | `OpenCV` | `YOLO` | `Reinforcement Learning`
@@ -43,12 +43,11 @@ A custom-built digital architecture to house my technical write-ups, engineering
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
-<!-- Note: To make these stats work, replace 'your-github-username' with your actual GitHub username -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true" alt="Tahmid's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" alt="Tahmid's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahmid-al-muntasir&show_icons=true&theme=radical&hide_border=true" alt="Tahmid's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahmid-al-muntasir&theme=radical&hide_border=true" alt="Tahmid's GitHub Streak" />
 </p>
 
 ---
