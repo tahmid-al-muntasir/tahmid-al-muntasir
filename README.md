@@ -1,59 +1,53 @@
 # Hi there, I'm Tahmid Al Muntasir 👋
 
-**Bridging Material Science, Artificial Intelligence, and Robotics for Industry 4.0**
+**Computational Modeling & Sim2Real RL for Deformable Object Manipulation**
 
-I am a graduating Textile Engineer currently exploring the intersection of deep learning, computer vision, and smart materials. My core focus is on automating and optimizing industrial pipelines, moving traditional manufacturing into the era of AI-driven Industry 4.0. 
- 
-
----
-
-### What I'm Currently Working On
-
-*   **Real-Time Fabric Defect Detection:** Developing an industrial computer vision pipeline using **YOLO, PyTorch, and OpenCV** to identify anomalies in manufacturing environments.
-*   **AI-Driven Smart Thermal Garments:** Building prototypes that utilize bio-based Phase Change Materials (PCM). I am exploring the use of **Reinforcement Learning (RL)** to dynamically model and optimize heating and cooling parameters.
-*   **Knowledge Automation & Engineering:** Utilizing tools like **n8n** and **Obsidian** to build highly automated, self-optimizing learning and research pipelines.
-*   **Multilingual Technical Fluency:** Actively studying to achieve B1 German and N4 Japanese to broaden my international research and career prospects.
+I am an engineer building physics-calibrated simulation environments for robotic manipulation. By grounding computational models in measured textile variance, my core focus is developing robust Reinforcement Learning and Graph Neural Network (GNN) architectures to solve heavily occluded, long-horizon fabric manipulation tasks.
 
 ---
 
-### Tech Stack & Tools
+### 🔬 Current Research & Engineering Pipeline
 
-**AI & Machine Learning:**
-`PyTorch` | `TensorFlow` | `OpenCV` | `YOLO` | `Reinforcement Learning`
-
-**Software Engineering & Web:**
-`Python` | `Next.js` | `JavaScript` | `Sanity CMS` | `Vercel`
-
-**Knowledge Management & Automation:**
-`n8n` | `Obsidian` | `NotebookLM`
+* **Sim2Real Deformable Object Physics:** Building **FabricSim**, a MuJoCo cloth particle mesh utilizing anisotropic spring constants fitted from Kawabata (KES) parameters to close the sim-to-real gap.
+* **Reinforcement Learning for Smart Textiles:** Developing algorithms to dynamically model and optimize heating/cooling states in bio-based Phase Change Material (PCM) garments.
+* **Industrial Computer Vision:** Engineering a real-time detection pipeline utilizing custom-trained **YOLO & PyTorch** architectures for automated quality control environments.
+* **Knowledge Automation & Internationalization:** Utilizing **n8n** and **Obsidian** to run a self-optimizing research workflow, while actively training for B1 German and N4 Japanese proficiency.
 
 ---
 
-### 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-#### 1. Real-Time Computer Vision for Fabric Defect Detection
-An ongoing industrial application utilizing custom-trained YOLO models via PyTorch to detect, classify, and log fabric defects in real-time, significantly reducing manual quality control bottlenecks.
+**Simulation, RL & Deep Learning:**
+`PyTorch` | `MuJoCo` | `Stable-Baselines3` | `OpenCV` | `YOLO` 
 
-#### 2. AI-Optimized Phase Change Material (PCM) Garments
-A research-focused prototype aimed at proving that dynamically heating/cooling bio-based PCMs can be modeled and optimized by AI algorithms for advanced, responsive textiles.
+**Architecture & Web:**
+`Python` | `C++` | `Next.js` | `Sanity CMS` | `Vercel`
 
-#### 3. [Technical Portfolio (tahmid-al-muntasir.vercel.app)](https://tahmid-al-muntasir.vercel.app)
-A custom-built digital architecture to house my technical write-ups, engineering projects, and research preprints, engineered with Next.js and Sanity CMS.
+**Knowledge Management:**
+`n8n` | `Obsidian` | `Linux` 
 
 ---
 
-### GitHub Stats
+### Featured Work & Repositories
 
+#### 1. FabricSim: KES-Grounded Simulation Environment (WIP)
+Developing a physics-calibrated MuJoCo simulator for cloth manipulation. Bypassing standard arbitrary domain randomization by parameterizing the environment directly from empirical textile mechanics (bending rigidity, shear stiffness, surface friction).
+
+#### 2. Real-Time Vision Pipeline for Fabric Anomalies
+An industrial application utilizing custom deep learning models via PyTorch to detect, classify, and log textile defects in real-time with sub-50ms latency.
+
+#### 3. [Research & Technical Portfolio (tahmid-al-muntasir.vercel.app)](https://tahmid-al-muntasir.vercel.app)
+A custom-built digital architecture engineered with Next.js and Sanity CMS to house my technical write-ups, engineering preprints, and research logs.
+
+---
+
+### Connect With Me
+
+* [My Personal Website](https://tahmid-al-muntasir.vercel.app)
+* [LinkedIn](https://www.linkedin.com/in/tahmid-al-muntasir/)
+
+<br>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tahmid-al-muntasir&show_icons=true&theme=radical&hide_border=true" alt="Tahmid's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahmid-al-muntasir&theme=radical&hide_border=true" alt="Tahmid's GitHub Streak" />
 </p>
-
----
-
-### 📫 Connect With Me
-
-*   [My Personal Website](https://tahmid-al-muntasir.vercel.app)
-*   [My Linkedin](https://www.linkedin.com/in/tahmid-al-muntasir/)
-
-
